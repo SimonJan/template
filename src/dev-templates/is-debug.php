@@ -1,3 +1,3 @@
 <?php
-    define('HTML5_DEBUG', <%= is_debug %>);
+    define('WPOS_DEBUG', <%= is_debug %>);
 ?>

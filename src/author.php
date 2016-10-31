@@ -6,13 +6,13 @@
 
 		<?php if (have_posts()): the_post(); ?>
 
-			<h1><?php _e( 'Author Archives for ', 'html5blank' ); echo get_the_author(); ?></h1>
+			<h1><?php _e( 'Author Archives for ', 'wposcars' ); echo get_the_author(); ?></h1>
 
 		<?php if ( get_the_author_meta('description')) : ?>
 
 		<?php echo get_avatar(get_the_author_meta('user_email')); ?>
 
-			<h2><?php _e( 'About ', 'html5blank' ); echo get_the_author() ; ?></h2>
+			<h2><?php _e( 'About ', 'wposcars' ); echo get_the_author() ; ?></h2>
 
 			<?php echo wpautop( get_the_author_meta('description') ); ?>
 
@@ -43,11 +43,11 @@
 						<?php the_date(); ?> <?php the_time(); ?>
 					</time>
 				</span>
-				<span class="author"><?php _e( 'Published by', 'html5blank' ); ?> <?php the_author_posts_link(); ?></span>
-				<span class="comments"><?php comments_popup_link( __( 'Leave your thoughts', 'html5blank' ), __( '1 Comment', 'html5blank' ), __( '% Comments', 'html5blank' )); ?></span>
+				<span class="author"><?php _e( 'Published by', 'wposcars' ); ?> <?php the_author_posts_link(); ?></span>
+				<span class="comments"><?php comments_popup_link( __( 'Leave your thoughts', 'wposcars' ), __( '1 Comment', 'wposcars' ), __( '% Comments', 'wposcars' )); ?></span>
 				<!-- /post details -->
 
-				<?php html5wp_excerpt('html5wp_index'); // Build your custom callback length in functions.php ?>
+				<?php wpos_excerpt('wpos_index'); // Build your custom callback length in functions.php ?>
 
 				<br class="clear">
 
@@ -63,7 +63,7 @@
 			<!-- article -->
 			<article>
 
-				<h2><?php _e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
+				<h2><?php _e( 'Sorry, nothing to display.', 'wposcars' ); ?></h2>
 
 			</article>
 			<!-- /article -->

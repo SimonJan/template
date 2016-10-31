@@ -109,7 +109,7 @@ msgid "(Edit)"
 msgstr "(Ubah)"
 
 #: ../functions.php:411 ../functions.php:412
-msgid "HTML5 Blank Custom Post"
+msgid "WPOSCARS Custom Post"
 msgstr "Postingan HTML5 custom kosong"
 
 #: ../functions.php:413
@@ -117,7 +117,7 @@ msgid "Add New"
 msgstr "Tambah baru"
 
 #: ../functions.php:414
-msgid "Add New HTML5 Blank Custom Post"
+msgid "Add New WPOSCARS Custom Post"
 msgstr "Tambah postingan HTML5 custom kosong baru"
 
 #: ../functions.php:415
@@ -125,27 +125,27 @@ msgid "Edit"
 msgstr "Ubah"
 
 #: ../functions.php:416
-msgid "Edit HTML5 Blank Custom Post"
+msgid "Edit WPOSCARS Custom Post"
 msgstr "Ubah Postingan HTML5 custom kosong"
 
 #: ../functions.php:417
-msgid "New HTML5 Blank Custom Post"
+msgid "New WPOSCARS Custom Post"
 msgstr "Postingan HTML5 custom kosong baru"
 
 #: ../functions.php:418 ../functions.php:419
-msgid "View HTML5 Blank Custom Post"
+msgid "View WPOSCARS Custom Post"
 msgstr "LIhat postingan HTML5 custom kosong"
 
 #: ../functions.php:420
-msgid "Search HTML5 Blank Custom Post"
+msgid "Search WPOSCARS Custom Post"
 msgstr "Cari postingan HTML5 custom kosong"
 
 #: ../functions.php:421
-msgid "No HTML5 Blank Custom Posts found"
+msgid "No WPOSCARS Custom Posts found"
 msgstr "Tidak ada postingan HTML5 custom kosong yang ditemukan"
 
 #: ../functions.php:422
-msgid "No HTML5 Blank Custom Posts found in Trash"
+msgid "No WPOSCARS Custom Posts found in Trash"
 msgstr "Tidak ada postingan HTML5 custom kosong yang ditemukan yang ditemukan di kotak sampah"
 
 #: ../index.php:6

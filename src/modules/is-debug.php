@@ -1,3 +1,3 @@
 <?php
-    define('HTML5_DEBUG', true);
+    define('WPOS_DEBUG', true);
 ?>

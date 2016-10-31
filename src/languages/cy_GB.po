@@ -112,44 +112,44 @@ msgid "(Edit)"
 msgstr "(Golygu)"
 
 #: ../functions.php:411 ../functions.php:412
-msgid "HTML5 Blank Custom Post"
-msgstr "Cofnod Cyfaddas HTML5 Blank"
+msgid "WPOSCARS Custom Post"
+msgstr "Cofnod Cyfaddas WPOSCARS"
 
 #: ../functions.php:413
 msgid "Add New"
 msgstr "Ychwanegu yn Newydd"
 
 #: ../functions.php:414
-msgid "Add New HTML5 Blank Custom Post"
-msgstr "Ychwanegu Cofnod Cyfaddas HTML5 Blank Newydd"
+msgid "Add New WPOSCARS Custom Post"
+msgstr "Ychwanegu Cofnod Cyfaddas WPOSCARS Newydd"
 
 #: ../functions.php:415
 msgid "Edit"
 msgstr "Golygu"
 
 #: ../functions.php:416
-msgid "Edit HTML5 Blank Custom Post"
-msgstr "Golygu Cofnod Cyfaddas HTML5 Blank"
+msgid "Edit WPOSCARS Custom Post"
+msgstr "Golygu Cofnod Cyfaddas WPOSCARS"
 
 #: ../functions.php:417
-msgid "New HTML5 Blank Custom Post"
-msgstr "Cofnod Cyfaddas HTML5 Blank Newydd"
+msgid "New WPOSCARS Custom Post"
+msgstr "Cofnod Cyfaddas WPOSCARS Newydd"
 
 #: ../functions.php:418 ../functions.php:419
-msgid "View HTML5 Blank Custom Post"
-msgstr "Gweld Cofnod Cyfaddas HTML5 Blank"
+msgid "View WPOSCARS Custom Post"
+msgstr "Gweld Cofnod Cyfaddas WPOSCARS"
 
 #: ../functions.php:420
-msgid "Search HTML5 Blank Custom Post"
-msgstr "Chwilio Cofnod Cyfaddas HTML5 Blank"
+msgid "Search WPOSCARS Custom Post"
+msgstr "Chwilio Cofnod Cyfaddas WPOSCARS"
 
 #: ../functions.php:421
-msgid "No HTML5 Blank Custom Posts found"
-msgstr "Ni ddaethpwyd o hyd i unrhyw Gofnod Cyfaddas HTML5 Blank"
+msgid "No WPOSCARS Custom Posts found"
+msgstr "Ni ddaethpwyd o hyd i unrhyw Gofnod Cyfaddas WPOSCARS"
 
 #: ../functions.php:422
-msgid "No HTML5 Blank Custom Posts found in Trash"
-msgstr "Ni ddaethpwyd o hyd i unrhyw Gofnod Cyfaddas HTML5 Blank yn y Bin Sbwriel"
+msgid "No WPOSCARS Custom Posts found in Trash"
+msgstr "Ni ddaethpwyd o hyd i unrhyw Gofnod Cyfaddas WPOSCARS yn y Bin Sbwriel"
 
 #: ../index.php:6
 msgid "Latest Posts"
